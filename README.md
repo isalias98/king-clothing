@@ -10,5 +10,5 @@ Homepage:
 Shop page:
 ![Screenshot 2022-11-06 164647](https://user-images.githubusercontent.com/85600311/200161984-2f3635ca-d2ea-4348-a9c3-7a3695eb6c1b.png)
 
-
+The live link for the website: https://loquacious-frangipane-18229d.netlify.app/
 Soon it will become a complete functional E-commerce website, stay tuned.
